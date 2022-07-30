@@ -1,0 +1,16 @@
+.btn-1,
+.btn-2 {
+    font-size: 28px;
+    font-family: "Times New Roman", sans-serif;
+    border-color: gray; /* If border-color is set, buttons are clickable, otherwise, they aren't clickable*/
+}
+
+.btn-1 {
+    background-color: black;
+    color: white;
+}
+
+.btn-2 {
+    background-color: yellow;
+}
+
